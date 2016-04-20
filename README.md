@@ -3,6 +3,7 @@
 ## JavaScript
 
 [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
 [JavaScript Garden](https://bonsaiden.github.io/JavaScript-Garden/)
 
 ## AngularJS
