@@ -1,5 +1,11 @@
 # andrewzen.github.io
 
+## Quotes
+
+> Good programmers write code that humans can understand.
+> 
+> — <cite>Refactoring: Improving the Design of Existing Code</cite>, 1999
+
 ## JavaScript
 
 [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
